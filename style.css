@@ -402,6 +402,19 @@ circle:nth-child(2)
 	 header ul li{
     	font-size: 0.7em;
     }
+	 .mxw800p h3{
+	font-size: 20px;
+	font-weight: 200;
+	margin-bottom: 10px;
+}
+   .mxw800p p{
+	position: relative;
+	font-size: 7px;
+	font-weight: 300;
+	margin-bottom: 20px;
+	letter-spacing: 1px;
+}
+
 
 
   }
