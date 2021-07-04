@@ -395,7 +395,7 @@ circle:nth-child(2)
 
  @media(max-width:400px){
     header .logo{
-        font-size: 0.7em;
+        font-size: 0.3em;
 
     }
 	 header ul li{
