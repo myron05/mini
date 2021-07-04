@@ -392,6 +392,83 @@ circle:nth-child(2)
     stroke: #c104ff;
 }
 
+.sec2{
+	position: relative;
+	padding: 50px;
+	background: #fff;
+
+  
+}
+
+
+.sec2 h1
+{
+	font-size: 3em;
+	margin-bottom: 10px;
+	color: #000;
+	font-family: 'Conv_Uniflex_PersonalUseOnly';
+	text-transform: none;
+}
+.sec2 p
+{
+	
+	
+	color: #000;
+	margin: auto;
+	font-size: 1.2em;
+	line-height: 120%;
+	width: 70%;
+	margin-top: 20px;
+	text-align: center;
+	text-transform:none;
+
+}
+
+.containerinfo{
+  max-width: 1100px;
+  margin: auto;
+  padding: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: "Open Sans",sans-serif;
+  
+
+  
+  
+  
+}
+.containerinfo2{
+  max-width: 1100px;
+  margin: auto;
+  padding: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: "Open Sans",sans-serif;
+
+}
+.containerinfo2{
+ align-items: center;
+
+}
+.cybermoon{
+  background: #fff;
+  flex: 1;
+  margin: 10px;
+  text-transform: uppercase;
+  font-family: "montserrat",sans-serif;
+  text-align: center;
+}
+.cyber{
+  background: #01070a;
+  flex: 1;
+  margin: 10px;
+  text-transform: uppercase;
+  font-family: "montserrat",sans-serif;
+  text-align: center;
+}
+.table7 img{
+	width: 300px;
+}
 
  @media(max-width:400px){
     header .logo img{
