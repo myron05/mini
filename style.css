@@ -399,6 +399,9 @@ circle:nth-child(2)
         font-size: 0.7em;
 
     }
+	 header ul li{
+    	font-size: 0.7em;
+    }
 
 
   }
