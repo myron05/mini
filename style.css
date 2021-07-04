@@ -525,7 +525,7 @@ circle:nth-child(2)
  @media(max-width:400px){
     header .logo img{
         width: 80px;
-	margin-right: 50px;
+	margin-right: 100px;
 
     }
 	 header ul li{
